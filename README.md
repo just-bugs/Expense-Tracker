@@ -1,18 +1,33 @@
-#Expense Tracker
+#  Expense Tracker
 
-Track your daily expenses and visualize spending by category.
+A simple **Expense Tracker** built with Python that helps you record, manage, and visualize your daily expenses.  
+This project demonstrates how to use **Pandas** for data management and **Matplotlib** for data visualization.
 
-###Features
+---
 
-Store daily expenses in a CSV file
+## Features
 
-View total spending by category
+- Add, view, and categorize expenses easily  
+- Store all data in a CSV file for persistence  
+- Visualize expenses using bar charts and pie charts  
+- Filter expenses by category or date  
+- Beginner-friendly code structure  
 
-Visualize expenses with bar charts
+---
 
- Run the Project
-python expense_tracker.py
+## Tech Stack
 
-###Tech
+- **Python 3.x**  
+- **Pandas** — for data manipulation  
+- **Matplotlib** — for visualization  
+- **CSV** — for lightweight data storage  
 
-Python · pandas · matplotlib
+---
+
+##  Installation
+
+Make sure you have Python installed on your system.  
+Then, install the required libraries:
+
+```bash
+pip install pandas matplotlib
